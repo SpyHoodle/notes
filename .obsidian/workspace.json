@@ -1,27 +1,14 @@
 {
   "main": {
-    "id": "9b22ad56f64712f0",
+    "id": "5324373015726ba8",
     "type": "split",
     "children": [
       {
-        "id": "ebb21b8f22404b4c",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "935bda64b17bb128",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Index.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "146086f8ee821e51",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -179,7 +166,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3a242c1f5159fffe",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "BSc Computer Science/LC Maths and Logic Foundations of CS",
     "BSc Computer Science/LC Computer Systems & Professional Practice",
