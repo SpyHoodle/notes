@@ -1,0 +1,11 @@
+{
+	"id": "touchbar-macros",
+	"name": "Touch Bar Macros",
+	"version": "1.0.3",
+	"minAppVersion": "0.15.0",
+	"description": "Run custom macros from your Mac's Touch Bar.",
+	"author": "Frostplexx",
+	"authorUrl": "https://github.com/Frostplexx",
+	"fundingUrl": "https://Ko-fi.com/frostplexx",
+	"isDesktopOnly": true
+}
